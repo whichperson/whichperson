@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @whichperson
+- 👀 I’m interested in world domination.
+- 🌱 I’m currently learning? No, I already know everything. 
+- 💞️ I’m looking to collaborate on absolutely nothing. I am a one-man-band.
+- 📫 How to reach me: You can't. Leave me alone.
