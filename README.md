@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @whichperson
-- 👀 I’m interested in world domination.
-- 🌱 I’m currently learning? No, I already know everything. 
-- 💞️ I’m looking to collaborate on absolutely nothing. I am a one-man-band.
-- 📫 How to reach me: You can't. Leave me alone.
+👋🏻 Hello. I am programmer who enjoys to create unorthodox applications that explore all aspects of life with shock value as an added bonus. Thanks for coming to my Ted talk.
