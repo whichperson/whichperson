@@ -6,7 +6,7 @@ I'm currently focusing on building VR environments for mental rehabilitation and
 
 #### Work
 - Software Developer @ Cofano in Enschede, Netherlands
-- System Architect & Data Scientist at Tusk, an open source anti-poaching project sponsored by the Ghanaian government
+- System Architect & Data Scientist @ Tusk, an open source anti-poaching project sponsored by the Ghanaian government
 - Data Scientist & Programmer @ Lara Bay Turtle Conservation Station in Limassol, Cyprus
 
 #### Previous Work
