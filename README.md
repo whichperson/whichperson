@@ -3,9 +3,9 @@
 I'm a software developer who's passionate about finding ways of optimizing the human experience with technology. To quote my favorite movie character: *"You can always be thinner, look better"* **(sarcasm)**. 
 
 <div align="center">
-<img src="https://i.pinimg.com/564x/83/19/4d/83194d92af51cfa536ea5c029ade658d.jpg" style="height: 450px;"/>
-<img src="https://i.pinimg.com/564x/1a/9a/3c/1a9a3c51cf6802f26428f6420bbb0ed7.jpg" style="height: 450px;"/>
-<img src="https://i.pinimg.com/564x/5a/fa/af/5afaafac052a7df0d7759f9eb542a151.jpg" style="height: 450px;"/>
+<img src="https://i.pinimg.com/564x/83/19/4d/83194d92af51cfa536ea5c029ade658d.jpg" style="height: 350px;"/>
+<img src="https://i.pinimg.com/564x/1a/9a/3c/1a9a3c51cf6802f26428f6420bbb0ed7.jpg" style="height: 350px;"/>
+<img src="https://i.pinimg.com/564x/5a/fa/af/5afaafac052a7df0d7759f9eb542a151.jpg" style="height: 350px;"/>
 </div>
 
 I'm currently focusing on building VR environments for mental rehabilitation and writing my thesis in `org-mode`: "A gamified recommender system to stimulate cognitive function in children with dementia".
