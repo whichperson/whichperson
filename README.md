@@ -10,14 +10,6 @@ I'm a software developer who's passionate about finding ways of optimizing the h
 
 I'm currently focusing on building VR environments for mental rehabilitation and writing my thesis in `org-mode`: "A gamified recommender system to stimulate cognitive function in children with dementia".
 
-#### Work
-- Software Developer @ Cofano in Enschede, Netherlands
-- System Architect & Data Scientist @ Tusk, an open source anti-poaching project sponsored by the Ghanaian government
-- Data Scientist & Programmer @ Lara Bay Turtle Conservation Station in Limassol, Cyprus
-
-#### Previous Work
-- Student Data Scientist @ TRIMM in Enschede, Netherlands
-
 #### Personal Work
 - Waggle: super secret project
 - Creed: real-time desktop emulator for note editing & collaboration
