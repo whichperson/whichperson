@@ -8,10 +8,6 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://whichperson.com/about" target="_blank">Website</a> 🐝
-  <a href="https://www.linkedin.com/in/whichperson/" target="_blank">LinkedIn</a>
-</p>
 
 
 <h3 align="center">Hello, you!</h3>
