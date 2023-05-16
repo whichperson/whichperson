@@ -49,5 +49,5 @@ Oops, you caught me! Here's a list of things I like tinkering with right now.
 <b><span>Honorable Mentions</span></b>
 </div>
 
-My animals are the pinnacle of my day, my biggest inspiration. We eat together, dance together, grow old together... To my animals; **Cornelius** (cornsnake), **Lucifer** (ball python), **Mozart** (african lovebird), **Bono** (mini pinscher), **Stanija** (labrador), **Taz** (chihuahua), **Noah** (german shepherd), **Olga** (siberian husky), **Luna** (lop rabbit), **Iron Mike** (iguana).
+To my animals; **Cornelius** (cornsnake), **Lucifer** (ball python), **Mozart** (african lovebird), **Bono** (mini pinscher), **Stanija** (labrador), **Taz** (chihuahua), **Noah** (german shepherd), **Olga** (siberian husky), **Luna** (lop rabbit), **Iron Mike** (iguana).
 
